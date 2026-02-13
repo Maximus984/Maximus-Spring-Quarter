@@ -16,4 +16,4 @@ is was 3 player and we add a nueke option is kill everything
 you had to worry about there being another person and not to mention you also had to worry that someone was also going to hit the nueke option 
 
 3. How much does your modification change how the game feels to plays? What emotions change in players between both versions?
-it make me feel mad when i lose but happy when i win
+it make me feel mad when i lose but happy when i winI'm inside ofThere'sOh my pencil it came back go ahead and click on this
