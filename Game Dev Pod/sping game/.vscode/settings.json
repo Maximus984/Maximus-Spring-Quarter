@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Spring Game Dev Pod.slnx"
+    "dotnet.defaultSolution": "sping game.slnx"
 }

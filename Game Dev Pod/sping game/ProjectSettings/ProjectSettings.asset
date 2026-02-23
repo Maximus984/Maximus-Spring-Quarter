@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 6723efc8dc3484b76adb59bf1dc2a7f6
+  productGUID: 357af105b36fe4e7ea212c6ca4020ca8
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Spring Game Dev Pod
+  productName: sping game
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -846,14 +846,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Spring Game Dev Pod
+  metroPackageName: sping game
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Spring Game Dev Pod
+  metroApplicationDescription: sping game
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -922,12 +922,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 9d0946a3-6847-4671-b83b-2ec3d85176fc
+  cloudProjectId: 1a62f892-699f-4a24-ad06-7a893ceffcea
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Spring Game Dev Pod
+  projectName: sping game
   organizationId: unity_269867452cc610074f14
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
